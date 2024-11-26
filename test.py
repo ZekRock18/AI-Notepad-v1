@@ -12,7 +12,7 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "json.json"
 client = vision.ImageAnnotatorClient()
 
 # Wolfram Alpha API Client
-wolfram_client = wolframalpha.Client("HKJLXW-9QER7QW84E")  # Replace with your API key
+wolfram_client = wolframalpha.Client("")  # Replace with your API key
 
 # Function to process the drawn image using Google Vision API
 def process_image(image_data):
