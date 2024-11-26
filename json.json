@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "serious-fabric-442019-m5",
-  "private_key_id": "aa97e5156874428a797fe53a54b38e46779f1352",
+  "private_key_id": "",
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDrzkrpzbERiEFV\nyB7DvF1YxHVOlqZM7OtjyNAGS1YMdI4HOJUGwsyFpv2WF/RuOgXcoRCJyLr7vpFW\n38F8UowgMCUXjSHIWVpSs6zMfJ+b9VCvY1omRi1B+qoxAS19AD0XxfsrW5cDC/ff\nmHKHjrinf6VXK90DxxppZz1eCxJ7sF6eltXNBWi6fgwohph1hGp5UlSRYhhtq/y9\nTiPGjmYBBA2UV1Fejm2BGw9TZ/4gc/CIT5BGS1AwdMAifFA1nj6AkGF7qcZQsRjG\n1lfQepxiC4JfJeoRRig1c9dHIFxD7dXR49JsOP0OmsRVouUX+KDAzExbGNb55Gbz\nc4yw0IW/AgMBAAECggEATm6m9z59+3VlOeme5f8U025BEHtGZEbXgrCsFLPhMrJf\n/WHiG8YWbgwdw9tC55jwEzMVg6bbHtoDkLBLNJVmW1x4Me21A2VJCEIQI1H+asr9\nY+D5fsqPyibcjgE0xqOaLnqhMQo9X/uOnnYf/hvIKppn/ecuk8+ZZt66iDnJk47y\nb715K1UtlSVfjgoO5rvMvBzjAltNFNdYqUx2rTXWAfBx/Wvg4moT0B0LNmE22tBB\n7eKoAygiBtIAtTDduI34pOH9GNHfAipKZsBfdYdRa2/hukYIn5yK6ocuY/LbSbZ1\nu18nOb3LFIMNTXCOiaa19hQnLVymZ/PAvTobKx6BZQKBgQD2G6sMITlh/njdeG44\nYxpGIAl2sK4ualEr9nEbuOPt9AxE8AvplQz2a4JA/keyXK7pnxO162rkvYa784w1\nrwpYrxlqTn7sMe/1Pf26lxNsIiXiGdHdZjHZpJPMbpDW5Np5IMYoNV0idrXQ/v9p\nhpI5x2RGGxpO5Nb9dNKQLKMhtQKBgQD1SJ6Pjvwr6XO/xHs5gF7ixA2Ze++t//2v\nqEBbI76MatHvFMqKpUIvrFT2nveKsblJPTUvAGTTEPAlxMof8kpv57BDrztUrejP\nG2I3HKgUhOmZdR9/IndU1JnrmwaB9v9/dLNaEzE4+0gZz8dj18FFAeVXQmjgJJN0\nfLjndPGCIwKBgAtvS6o7nPPto+X+Y3ihOiZJ9Mab/OvRKsZVI/o6w/RZY3yMfrEy\nqLCGXD3y0pf58HKQXpUURBouqCTxcvFHmb53HEIxNXp584E8iR5zSIa8q2/u7S5R\nQj2vhOJ5vKcPaQs5t5tEp3gjdd0pC+r2QrMGjaUoOzexMEAEfogOWuIFAoGBANiz\na8KRJKD3A1gtEmDe1PWrGAi9wicLvujt0M20aqhLx2VeDQMotazAp9+q2jAii/v0\no4P+6RTAJip4DcrjmHf9TXC+48AQVVqEauUd4DEgq/Dz1PvRS3Qa0FGjCMDRozDL\nvZia1CXveuey9glzmECLSD8rYNSF+/AyMHnsi2HZAoGBAO+1YNVLb83CfQTm8nFc\npDts9DQgc6F3nrNB7NP1uSvY+FPwTBUAQA0iZnZ06BOVLKyzB50o5ip/Tj5fD5Ty\ndWCFvQqlzd6T8A4Nkt3ng8fGbrVl8m7jxmqT/cLLZ/tJCHH2bsu0Vk92/qroc5Sj\n0r9IIaNFdZi2bp4IyIDQftZQ\n-----END PRIVATE KEY-----\n",
   "client_email": "notes-app@serious-fabric-442019-m5.iam.gserviceaccount.com",
-  "client_id": "113735334079665884752",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
